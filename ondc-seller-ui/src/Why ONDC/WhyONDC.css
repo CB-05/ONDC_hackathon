@@ -1,0 +1,15 @@
+.benefits {
+    margin: 3%;
+}
+
+.benefits h2 {
+    font-size: 1.75rem;
+    font-family: 'Roboto';
+    color: rgb(0, 45, 114);
+}
+
+ul {
+    font-family: overpass;
+    color: #444;
+    font-weight: 400;
+}

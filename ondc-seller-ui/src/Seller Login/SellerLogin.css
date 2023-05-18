@@ -1,0 +1,31 @@
+.loginpage {
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+.loginpage-links {
+    font-family: 'Roboto';
+    color: #002d72;
+    font-size: 1.2rem;
+    text-align: center;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.loginpage a{
+    text-decoration: none;
+}
+
+.loginpage a:hover {
+    text-decoration: underline;
+    text-decoration-color: #002d72;
+}
+
+.loginpage h4{
+    text-align: center;
+    justify-content: center;
+    font-family: 'Overpass';
+    color: #22303e;
+    font-weight: 400;
+  }

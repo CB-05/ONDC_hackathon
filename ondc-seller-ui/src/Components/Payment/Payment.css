@@ -1,0 +1,70 @@
+.payment {
+    width: 100%;
+}
+
+.payment h1{
+    text-align: left;
+}
+
+.payment h4{
+    font-family: 'Overpass';
+    color: #444;
+    font-weight: 400;
+    text-align: left;
+}
+
+.payment table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 4%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow: auto;
+    height: 40vh;
+  }
+
+.payment table {
+    overflow: auto;
+    color: #333;
+    border: 1px solid #ccc;
+}
+
+.payment td {
+  color: #333;
+  border: none;
+  width: 3rem;
+  height: 3rem;
+  padding: 0.5%;
+  overflow: hidden;
+
+}
+
+.payment th{
+  font-size: 1.1rem;
+  border: none;
+  font-family: 'Roboto';
+  background-color: #d9e7fd;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.payment tr:nth-child(even) {
+  background-color: #eee;
+}
+
+.payment button {
+  cursor: pointer;
+  /* font-size: 0.9rem; */
+  background: #fff;
+  color: #05589d;
+  border: solid 1px #05589d;
+  font-weight: 500;
+  border-radius: 0.2rem;
+  /* height: 2.5rem; */
+  font-family: overpass;
+  /* margin-right: 3%;
+  padding-top: 0.5%;
+  padding-left: 2%;
+  padding-right: 2%; */
+  width: 60%;
+}
+

@@ -1,0 +1,1065 @@
+{
+    "categories": [
+      {
+
+            "id": "RET-14",
+            "name": "Electronics",
+            "subcategories": [
+              {
+                "id": "RET-14-10",
+                "name": "Audio",
+                "subcategories": [
+                  {
+                    "id": "RET-14-10-10",
+                    "name": "Headphones & Earphones",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-10-10-10",
+                        "name": "Earphones"
+                      },
+                      {
+                        "id": "RET-14-10-10-11",
+                        "name": "Headphones"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-10-11",
+                    "name": "Audio & Microphone Accessories",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-10-11-10",
+                        "name": "Adapters"
+                      },
+                      {
+                        "id": "RET-14-10-11-11",
+                        "name": "Cables"
+                      },
+                      {
+                        "id": "RET-14-10-11-12",
+                        "name": "Extension Cords"
+                      },
+                      {
+                        "id": "RET-14-10-11-13",
+                        "name": "Cases"
+                      },
+                      {
+                        "id": "RET-14-10-11-14",
+                        "name": "Earpads"
+                      },
+                      {
+                        "id": "RET-14-10-11-15",
+                        "name": "Pop Filters"
+                      },
+                      {
+                        "id": "RET-14-10-11-16",
+                        "name": "Microphone Holder"
+                      },
+                      {
+                        "id": "RET-14-10-11-17",
+                        "name": "Mic Shield"
+                      },
+                      {
+                        "id": "RET-14-10-11-18",
+                        "name": "Mic Clip"
+                      },
+                      {
+                        "id": "RET-14-10-11-19",
+                        "name": "Other Audio & Microphone Accessories"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-10-12",
+                    "name": "Home Audio",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-10-12-10",
+                        "name": "Amplifiers"
+                      },
+                      {
+                        "id": "RET-14-10-12-11",
+                        "name": "Home Theatre Speaker System"
+                      },
+                      {
+                        "id": "RET-14-10-12-12",
+                        "name": "Karaoke Players"
+                      },
+                      {
+                        "id": "RET-14-10-12-13",
+                        "name": "Mixers"
+                      },
+                      {
+                        "id": "RET-14-10-12-14",
+                        "name": "Music Player"
+                      },
+                      {
+                        "id": "RET-14-10-12-15",
+                        "name": "Music System"
+                      },
+                      {
+                        "id": "RET-14-10-12-16",
+                        "name": "Public Address Systems"
+                      },
+                      {
+                        "id": "RET-14-10-12-17",
+                        "name": "Radios"
+                      },
+                      {
+                        "id": "RET-14-10-12-18",
+                        "name": "Audio recorders"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-10-13",
+                    "name": "Microphones",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-10-13-10",
+                        "name": "Microphones"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-10-14",
+                    "name": "Speakers",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-10-14-10",
+                        "name": "Speakers"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-10-15",
+                    "name": "Vehicle Audio",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-10-15-10",
+                        "name": "Bike Audio"
+                      },
+                      {
+                        "id": "RET-14-10-15-11",
+                        "name": "Car Amplifiers"
+                      },
+                      {
+                        "id": "RET-14-10-15-12",
+                        "name": "Car Media Players"
+                      },
+                      {
+                        "id": "RET-14-10-15-13",
+                        "name": "Car Speakers"
+                      },
+                      {
+                        "id": "RET-14-10-15-14",
+                        "name": "Car Subwoofers"
+                      },
+                      {
+                        "id": "RET-14-10-15-15",
+                        "name": "Car Video Monitors"
+                      },
+                      {
+                        "id": "RET-14-10-15-16",
+                        "name": "Vehicle Antennas"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "RET-14-11",
+                "name": "Cameras and Camcorders",
+                "subcategories": [
+                  {
+                    "id": "RET-14-11-10",
+                    "name": "Camcorders",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-11-10-10",
+                        "name": "Camcorders"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-11-11",
+                    "name": "Cameras",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-11-11-10",
+                        "name": "Cameras"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-11-12",
+                    "name": "Camera Accessories",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-11-12-10",
+                        "name": "Binoculars"
+                      },
+                      {
+                        "id": "RET-14-11-12-11",
+                        "name": "Camera Bags"
+                      },
+                      {
+                        "id": "RET-14-11-12-12",
+                        "name": "Camera Batteries"
+                      },
+                      {
+                        "id": "RET-14-11-12-13",
+                        "name": "Camera Chargers"
+                      },
+                      {
+                        "id": "RET-14-11-12-14",
+                        "name": "Camera Lenses and Kits"
+                      },
+                      {
+                        "id": "RET-14-11-12-15",
+                        "name": "Flashes"
+                      },
+                      {
+                        "id": "RET-14-11-12-16",
+                        "name": "Photo Printers"
+                      },
+                      {
+                        "id": "RET-14-11-12-17",
+                        "name": "Tripods"
+                      },
+                      {
+                        "id": "RET-14-11-12-18",
+                        "name": "Mounts"
+                      },
+                      {
+                        "id": "RET-14-11-12-19",
+                        "name": "Camera Memory Cards"
+                      },
+                      {
+                        "id": "RET-14-11-12-1A",
+                        "name": "Other Camera Accessories"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "RET-14-12",
+                "name": "Computer Peripherals",
+                "subcategories": [
+                  {
+                    "id": "RET-14-12-10",
+                    "name": "Computer Peripherals",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-12-10-10",
+                        "name": "Keyboards"
+                      },
+                      {
+                        "id": "RET-14-12-10-11",
+                        "name": "Monitors"
+                      },
+                      {
+                        "id": "RET-14-12-10-12",
+                        "name": "Mouse"
+                      },
+                      {
+                        "id": "RET-14-12-10-13",
+                        "name": "UPS"
+                      },
+                      {
+                        "id": "RET-14-12-10-14",
+                        "name": "Other Computer Peripherals"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-12-11",
+                    "name": "Networking Devices",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-12-11-10",
+                        "name": "Data Cards & Dongles"
+                      },
+                      {
+                        "id": "RET-14-12-11-11",
+                        "name": "Modems"
+                      },
+                      {
+                        "id": "RET-14-12-11-12",
+                        "name": "Repeaters/Extenders"
+                      },
+                      {
+                        "id": "RET-14-12-11-13",
+                        "name": "Routers"
+                      },
+                      {
+                        "id": "RET-14-12-11-14",
+                        "name": "Other Networking Devices"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-12-12",
+                    "name": "Printers",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-12-12-10",
+                        "name": "Printers"
+                      },
+                      {
+                        "id": "RET-14-12-12-11",
+                        "name": "Scanners"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-12-13",
+                    "name": "Printers Accessories",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-12-13-10",
+                        "name": "Cartridges"
+                      },
+                      {
+                        "id": "RET-14-12-13-11",
+                        "name": "Printer Inks"
+                      },
+                      {
+                        "id": "RET-14-12-13-12",
+                        "name": "Printer Trays"
+                      },
+                      {
+                        "id": "RET-14-12-13-13",
+                        "name": "Printer Toners"
+                      },
+                      {
+                        "id": "RET-14-12-13-14",
+                        "name": "Other printer Accessories"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-12-14",
+                    "name": "Storage Devices",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-12-14-10",
+                        "name": "Drives"
+                      },
+                      {
+                        "id": "RET-14-12-14-11",
+                        "name": "Computer Memory Cards"
+                      },
+                      {
+                        "id": "RET-14-12-14-12",
+                        "name": "Pen Drives"
+                      },
+                      {
+                        "id": "RET-14-12-14-13",
+                        "name": "Other Storage Devices"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "RET-14-13",
+                "name": "Desktop and Laptops",
+                "subcategories": [
+                  {
+                    "id": "RET-14-13-10",
+                    "name": "Components",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-13-10-10",
+                        "name": "Laptop Battery"
+                      },
+                      {
+                        "id": "RET-14-13-10-11",
+                        "name": "Computer Cases/Body"
+                      },
+                      {
+                        "id": "RET-14-13-10-12",
+                        "name": "Computer/Laptop Fans & Cooling"
+                      },
+                      {
+                        "id": "RET-14-13-10-13",
+                        "name": "Graphic Cards"
+                      },
+                      {
+                        "id": "RET-14-13-10-14",
+                        "name": "Computer/Laptop Memory"
+                      },
+                      {
+                        "id": "RET-14-13-10-15",
+                        "name": "Motherboards"
+                      },
+                      {
+                        "id": "RET-14-13-10-16",
+                        "name": "Network Interface Card"
+                      },
+                      {
+                        "id": "RET-14-13-10-17",
+                        "name": "Computer/Laptop Processors"
+                      },
+                      {
+                        "id": "RET-14-13-10-18",
+                        "name": "Other Components"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-13-11",
+                    "name": "Computer and Laptops Accessories",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-13-11-10",
+                        "name": "Cleaning Kits"
+                      },
+                      {
+                        "id": "RET-14-13-11-11",
+                        "name": "Cooling Pads"
+                      },
+                      {
+                        "id": "RET-14-13-11-12",
+                        "name": "Docking Stations"
+                      },
+                      {
+                        "id": "RET-14-13-11-13",
+                        "name": "Keyboard Guards"
+                      },
+                      {
+                        "id": "RET-14-13-11-14",
+                        "name": "Laptop Skins"
+                      },
+                      {
+                        "id": "RET-14-13-11-15",
+                        "name": "Laptop Stand/Desk"
+                      },
+                      {
+                        "id": "RET-14-13-11-16",
+                        "name": "Mousepads"
+                      },
+                      {
+                        "id": "RET-14-13-11-17",
+                        "name": "Laptop Bags "
+                      },
+                      {
+                        "id": "RET-14-13-11-18",
+                        "name": "Computer/Laptop Screen Protectors"
+                      },
+                      {
+                        "id": "RET-14-13-11-19",
+                        "name": "Other laptop/Computer Accessories"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-13-12",
+                    "name": "Computer Software",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-13-12-10",
+                        "name": "Antivirus & Internet Security"
+                      },
+                      {
+                        "id": "RET-14-13-12-11",
+                        "name": "Computer/Laptop Operating Systems"
+                      },
+                      {
+                        "id": "RET-14-13-12-12",
+                        "name": "Other Softwares"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-13-13",
+                    "name": "Desktops & All-in-Ones",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-13-13-10",
+                        "name": "Desktops & All-in-Ones"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-13-14",
+                    "name": "Laptops",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-13-14-10",
+                        "name": "Laptops"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-13-15",
+                    "name": "Tablets",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-13-15-10",
+                        "name": "E-Book Readers"
+                      },
+                      {
+                        "id": "RET-14-13-15-11",
+                        "name": "Tablets"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-13-16",
+                    "name": "Tablet Accessories ",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-13-16-10",
+                        "name": "Stylus Pens"
+                      },
+                      {
+                        "id": "RET-14-13-16-11",
+                        "name": "Tablet Screen Protectors"
+                      },
+                      {
+                        "id": "RET-14-13-16-12",
+                        "name": "Tablet Stands"
+                      },
+                      {
+                        "id": "RET-14-13-16-13",
+                        "name": "Tablet Adapters "
+                      },
+                      {
+                        "id": "RET-14-13-16-14",
+                        "name": "Tablet Cables"
+                      },
+                      {
+                        "id": "RET-14-13-16-15",
+                        "name": "Tablet Bags"
+                      },
+                      {
+                        "id": "RET-14-13-16-16",
+                        "name": "Tablet Cases"
+                      },
+                      {
+                        "id": "RET-14-13-16-17",
+                        "name": "Tablet Sleeves"
+                      },
+                      {
+                        "id": "RET-14-13-16-18",
+                        "name": "Other Tablet accessories"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "RET-14-14",
+                "name": "Gaming",
+                "subcategories": [
+                  {
+                    "id": "RET-14-14-10",
+                    "name": "Controllers",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-14-10-10",
+                        "name": "Gamepads"
+                      },
+                      {
+                        "id": "RET-14-14-10-11",
+                        "name": "Joysticks"
+                      },
+                      {
+                        "id": "RET-14-14-10-12",
+                        "name": "Gaming Wheels"
+                      },
+                      {
+                        "id": "RET-14-14-10-13",
+                        "name": "Motion Controllers"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-14-11",
+                    "name": "Gaming Accessories",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-14-11-10",
+                        "name": "Gaming Headsets"
+                      },
+                      {
+                        "id": "RET-14-14-11-11",
+                        "name": "Gaming Keyboards"
+                      },
+                      {
+                        "id": "RET-14-14-11-12",
+                        "name": "Gaming Mice"
+                      },
+                      {
+                        "id": "RET-14-14-11-13",
+                        "name": "Simulator Chairs"
+                      },
+                      {
+                        "id": "RET-14-14-11-14",
+                        "name": "Other Gaming Accessories"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-14-12",
+                    "name": "Gaming Consoles",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-14-12-10",
+                        "name": "Gaming Consoles"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-14-13",
+                    "name": "Video Games",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-14-13-10",
+                        "name": "Video Games"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "RET-14-15",
+                "name": "Mobile Phones ",
+                "subcategories": [
+                  {
+                    "id": "RET-14-15-10",
+                    "name": "Feature Phones",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-15-10-10",
+                        "name": "Feature Phones"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-15-11",
+                    "name": "Smartphones ",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-15-11-10",
+                        "name": "Smartphones "
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-15-12",
+                    "name": "Mobile Phone Accessories",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-15-12-10",
+                        "name": "Mobile Case"
+                      },
+                      {
+                        "id": "RET-14-15-12-11",
+                        "name": "Mobile Covers"
+                      },
+                      {
+                        "id": "RET-14-15-12-12",
+                        "name": "Mobile Chargers"
+                      },
+                      {
+                        "id": "RET-14-15-12-13",
+                        "name": "Mobile Data Cables"
+                      },
+                      {
+                        "id": "RET-14-15-12-14",
+                        "name": "Mobile Internal Batteries"
+                      },
+                      {
+                        "id": "RET-14-15-12-15",
+                        "name": "Mobile Lens"
+                      },
+                      {
+                        "id": "RET-14-15-12-16",
+                        "name": "Mobile Mounts and Stands"
+                      },
+                      {
+                        "id": "RET-14-15-12-17",
+                        "name": "Power Banks"
+                      },
+                      {
+                        "id": "RET-14-15-12-18",
+                        "name": "Mobile Screen Guards"
+                      },
+                      {
+                        "id": "RET-14-15-12-19",
+                        "name": "Selfie Sticks"
+                      },
+                      {
+                        "id": "RET-14-15-12-1A",
+                        "name": "Mobile Skin Stickers"
+                      },
+                      {
+                        "id": "RET-14-15-12-1B",
+                        "name": "Mobile Phone memory Cards"
+                      },
+                      {
+                        "id": "RET-14-15-12-1C",
+                        "name": "Other Mobile Phone Accessories"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "RET-14-16",
+                "name": "Safety Security",
+                "subcategories": [
+                  {
+                    "id": "RET-14-16-10",
+                    "name": "Biometrics",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-16-10-10",
+                        "name": "Biometric Devices"
+                      },
+                      {
+                        "id": "RET-14-16-10-11",
+                        "name": "Biometric Locks"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-16-11",
+                    "name": "Home Alarms",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-16-11-10",
+                        "name": "Door Bells"
+                      },
+                      {
+                        "id": "RET-14-16-11-11",
+                        "name": "Home Security Alarms"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-16-12",
+                    "name": "Home Automation",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-16-12-10",
+                        "name": "Smart Home Locks"
+                      },
+                      {
+                        "id": "RET-14-16-12-11",
+                        "name": "Other Home Automation Devices"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-16-13",
+                    "name": "Home Safes",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-16-13-10",
+                        "name": "Home Safes"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-16-14",
+                    "name": "Intercoms",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-16-14-10",
+                        "name": "Intercoms"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-16-15",
+                    "name": "Sensors",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-16-15-10",
+                        "name": "Anti theft sensor and alarms"
+                      },
+                      {
+                        "id": "RET-14-16-15-11",
+                        "name": "Motion Sensors"
+                      },
+                      {
+                        "id": "RET-14-16-15-12",
+                        "name": "Smoke Alarms"
+                      },
+                      {
+                        "id": "RET-14-16-15-13",
+                        "name": "Other sensors"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-16-16",
+                    "name": "Other Safety Accessories",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-16-16-10",
+                        "name": "Other Safety Accessories"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "RET-14-17",
+                "name": "Televisions ",
+                "subcategories": [
+                  {
+                    "id": "RET-14-17-10",
+                    "name": "Television",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-17-10-10",
+                        "name": "Smart TVs"
+                      },
+                      {
+                        "id": "RET-14-17-10-11",
+                        "name": "Standard TVs"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-17-11",
+                    "name": "TV Accessories",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-17-11-10",
+                        "name": "TV Mounts "
+                      },
+                      {
+                        "id": "RET-14-17-11-11",
+                        "name": "Remotes"
+                      },
+                      {
+                        "id": "RET-14-17-11-12",
+                        "name": "TV Cables & Connectors"
+                      },
+                      {
+                        "id": "RET-14-17-11-13",
+                        "name": "TV Converters"
+                      },
+                      {
+                        "id": "RET-14-17-11-14",
+                        "name": "TV Receivers"
+                      },
+                      {
+                        "id": "RET-14-17-11-15",
+                        "name": "TV Streaming Devices"
+                      },
+                      {
+                        "id": "RET-14-17-11-16",
+                        "name": "TV Tuners"
+                      },
+                      {
+                        "id": "RET-14-17-11-17",
+                        "name": "Other TV Accessories"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "RET-14-18",
+                "name": "Video",
+                "subcategories": [
+                  {
+                    "id": "RET-14-18-10",
+                    "name": "3D Theatre Equipments",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-18-10-10",
+                        "name": "3D Glasses"
+                      },
+                      {
+                        "id": "RET-14-18-10-11",
+                        "name": "3D Modulators and Systems"
+                      },
+                      {
+                        "id": "RET-14-18-10-12",
+                        "name": "Virtual Reality Headsets"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-18-11",
+                    "name": "Projector Accessories and Parts",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-18-11-10",
+                        "name": "Projector Mounts"
+                      },
+                      {
+                        "id": "RET-14-18-11-11",
+                        "name": "Projector Screens"
+                      },
+                      {
+                        "id": "RET-14-18-11-12",
+                        "name": "Other Projector Accessories and Parts"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-18-12",
+                    "name": "Projectors",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-18-12-10",
+                        "name": "Projectors"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-18-13",
+                    "name": "Satellite & Cable TV",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-18-13-10",
+                        "name": "Satellite and Cable TV Stand"
+                      },
+                      {
+                        "id": "RET-14-18-13-11",
+                        "name": "Satellite and Cable TV Cable/Wire"
+                      },
+                      {
+                        "id": "RET-14-18-13-12",
+                        "name": "Satellite and Cable TV Remote"
+                      },
+                      {
+                        "id": "RET-14-18-13-13",
+                        "name": "Satellite and Cable TV Antenna"
+                      },
+                      {
+                        "id": "RET-14-18-13-14",
+                        "name": "Satellite Receivers"
+                      },
+                      {
+                        "id": "RET-14-18-13-15",
+                        "name": "Set Top Box"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-18-14",
+                    "name": "Video Players ",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-18-14-10",
+                        "name": "Video Player"
+                      },
+                      {
+                        "id": "RET-14-18-14-11",
+                        "name": "Digital Photo Frames"
+                      },
+                      {
+                        "id": "RET-14-18-14-12",
+                        "name": "Home Theatre Projectors"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-18-15",
+                    "name": "Video Players Accessories",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-18-15-10",
+                        "name": "Video Players  Adapters"
+                      },
+                      {
+                        "id": "RET-14-18-15-11",
+                        "name": "Video Players Cables"
+                      },
+                      {
+                        "id": "RET-14-18-15-12",
+                        "name": "Video Players  Extension Cords"
+                      },
+                      {
+                        "id": "RET-14-18-15-13",
+                        "name": "Video Players  Cases"
+                      },
+                      {
+                        "id": "RET-14-18-15-14",
+                        "name": "Video Players  Covers"
+                      },
+                      {
+                        "id": "RET-14-18-15-15",
+                        "name": "Video Players  Cleaning Kits"
+                      },
+                      {
+                        "id": "RET-14-18-15-16",
+                        "name": "Other Video Accessories "
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "RET-14-19",
+                "name": "Wearable Products",
+                "subcategories": [
+                  {
+                    "id": "RET-14-19-10",
+                    "name": "Smart Bands",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-19-10-10",
+                        "name": "Fitness Trackers"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-19-11",
+                    "name": "Smart Glasses",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-19-11-10",
+                        "name": "Smart Glasses"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-19-12",
+                    "name": "Smart Watches",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-19-12-10",
+                        "name": "Smart Watches"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "RET-14-19-13",
+                    "name": "Wearable Accessories",
+                    "subcategories": [
+                      {
+                        "id": "RET-14-19-13-10",
+                        "name": "Watches Cases / Screen Guards"
+                      },
+                      {
+                        "id": "RET-14-19-13-11",
+                        "name": "Wearables Charging Dock / Cable"
+                      },
+                      {
+                        "id": "RET-14-19-13-12",
+                        "name": "Watch Strap Bands"
+                      },
+                      {
+                        "id": "RET-14-19-13-13",
+                        "name": "Other Wearable Accessories"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }

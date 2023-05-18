@@ -1,0 +1,56 @@
+.UploadLog {
+    font-size: 1rem;
+    width: 100%;
+    margin-top: 4%;
+    font-family: Overpass;
+  }
+
+.tabs {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: #d9e7fd;
+    height: 2.5rem;
+}
+  
+.tab {
+    cursor: pointer;
+    margin: 1.2%;
+    height: 2.5rem;
+  }
+  
+.tab.active {
+    color: #002d72 ;
+    font-weight: 800;
+  }
+  
+.UploadLog table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow: auto;
+    height: 40vh;
+  }
+
+.table-container table {
+    overflow: auto;
+    height: 30vh;
+    color: #333;
+}
+
+.table-container td {
+  color: #333;
+  border: none;
+}
+
+.table-container th{
+  font-size: 1.1rem;
+  border: none;
+  font-family: 'Roboto';
+  background-color: #eee;
+}
+
+.table-container tr:nth-child(even) {
+  background-color: #eee;
+}

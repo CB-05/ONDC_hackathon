@@ -1,0 +1,20 @@
+.button-light {
+    cursor: pointer;
+    font-size: 0.9rem;
+    background: #fff;
+    color: #05589d;
+    border: solid 1px #05589d;
+    font-weight: 500;
+    border-radius: 0.2rem;
+    height: 2.5rem;
+    font-family: overpass;
+    margin-right: 3%;
+    padding-top: 0.5%;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+.button-light:hover {
+    background-color: #d9e7fd;
+    font-weight: 600;
+  }

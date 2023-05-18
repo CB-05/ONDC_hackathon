@@ -1,0 +1,16 @@
+.contact {
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.contact h2 {
+    font-size: 1.75rem;
+    font-family: 'Overpass';
+    color: rgb(0, 45, 114);
+}
+
+ul {
+    font-family: 'Roboto';
+    color: #444;
+    font-weight: 400;
+}

@@ -1,0 +1,45 @@
+.cat-upload {
+    width: 100%;
+    /* margin-left: 3%; */
+}
+
+.cat-upload h1{
+    text-align: left;
+}
+
+.cat-upload h4{
+    font-family: 'Overpass';
+    color: #444;
+    font-weight: 400;
+    text-align: left;
+}
+
+.cat-upload table {
+  border-collapse: collapse;
+  font-family: roboto;
+  margin-top: 3%;
+  color: #444;
+  border: 1px solid #ccc;
+  width: 50%;
+
+}
+
+.cat-upload th {
+  font-size: 1.5rem;
+  border-right: solid 1px #bbb;
+  padding: 1.5%;
+}
+
+.cat-upload td {
+  border-right: solid 1px #bbb;
+  padding: 1%;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+
+.upload-btn {
+    display: flex;
+    justify-content: left;
+  }
+

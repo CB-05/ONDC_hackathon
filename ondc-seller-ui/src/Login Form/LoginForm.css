@@ -1,0 +1,87 @@
+.LoginForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 27rem;
+    /* width: 70%; */
+    justify-content: center;
+    /* background-color: #fff; */
+  }
+  
+  input[type="email"],
+  input[type="password"] {
+    height: 1.35rem;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    font-family: 'Overpass';
+    padding: 0.5%;
+    padding-left: 1%;
+    color: #4f6490;
+    font-weight: normal;
+  }
+  
+  input[type="submit"] {
+    margin-top: 2%;
+    cursor: pointer;
+    font-size: 1rem;
+    background: #002d72;
+    color: #fff;
+    width: 18%;
+    font-weight: 400;
+    border-radius: 0.2rem;
+    border: none;
+    height: 2.4rem;
+    font-family: 'Overpass';
+    padding-top: 0.5%;
+  }
+  
+  input[type="submit"]:hover {
+    background: #002d72;
+    font-weight: 500;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .login-form {
+    width: 50%;
+    background-color: white;
+    padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .list-container {
+    display: flex;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  
+  .title {
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    font-family: Overpass;
+    color: #333;;
+    font-weight: 600;
+  }
+
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 10px;
+  }
+
+  label {
+    font-family: 'Overpass';
+    color: #22303e ;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    font-weight: 600;
+  }

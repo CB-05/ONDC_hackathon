@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(../fonts/Roboto/Roboto-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Overpass';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Overpass'), local('Overpass-Regular'), url(../fonts/Overpass/static/Overpass-Regular.ttf) format('truetype');
+}
+
+
+
+
+

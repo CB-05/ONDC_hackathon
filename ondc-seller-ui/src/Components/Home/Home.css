@@ -1,0 +1,58 @@
+.home {
+    width: 100%;
+    margin-left: 2%;
+    font-family: Overpass;
+}
+
+.home h1{
+    text-align: left;
+    margin-bottom: 0%;
+}
+
+.home h4{
+    font-family: 'Overpass';
+    color: #444;
+    font-weight: 400;
+    text-align: left;
+}
+
+.home h3{
+    text-align: left;
+    margin: 0;
+    font-size: 1.2rem;
+    font-family: Tahoma;
+    color: #333;
+}
+
+.user{
+    display: flex;
+    text-align: left;
+}
+
+.userdata {
+    display: flex;
+    flex-direction: column;
+    margin: 1%;
+    width: 30%;
+}
+
+.userdata label {
+    font-family: 'Overpass';
+    color: #002d72 ;
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin-top: 5%;
+}
+
+.userdata input {
+    height: 1.35rem;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    font-family: 'Overpass';
+    padding: 0.5%;
+    padding-left: 1%;
+    color: #22303e;
+    font-weight: normal;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}

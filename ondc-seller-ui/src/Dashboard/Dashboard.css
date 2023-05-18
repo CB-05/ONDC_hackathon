@@ -1,0 +1,53 @@
+.dashboard {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 18rem;
+  height: 100vh;
+  font-family: Roboto;
+  font-size: .95rem;
+  color: #22303e;
+  text-emphasis: none;
+  border-right: solid 1px #ccc;
+  margin-top: 1%;
+  text-align: left;
+}
+
+.sidebar-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 3.25rem;
+  width: 100%;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.sidebar-item.active {
+  background-color: #d9e7fd; 
+  color: #002d72;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 80%;
+  height: 100%;
+  margin-left: 2%;
+}
+
+h1 {
+  color: #333;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  font-family: 'Overpass';
+}
